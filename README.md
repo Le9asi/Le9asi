@@ -12,7 +12,7 @@
 </pre>
 <br>
 
-<img src="https://github.com/user-attachments/assets/a0ce4e8c-07de-4235-9dd3-09d41d7d93f9" height="80" />
+<img src="https://github.com/user-attachments/assets/a0ce4e8c-07de-4235-9dd3-09d41d7d93f9" height="60" />
 <br><br>
     
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/-) 
