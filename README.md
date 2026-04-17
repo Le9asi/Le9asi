@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/assets/banner.jpg" width="25%" align="right" />
+<img src="https://github.com/user-attachments/assets/172c1a89-c979-4482-955d-0d88c585234e" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&duration=1&pause=15&color=61C4F2&center=true&width=435&lines=Hello%F0%9F%91%8B+I'm+Valentin" width="70%" />
 <br><br>
 
